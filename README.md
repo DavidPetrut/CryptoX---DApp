@@ -1,7 +1,12 @@
+## Watch full demonstration of the DApp video
+
+# CryptoX --- [https://www.youtube.com/watch?v=2s3wM4bb8b0](https://www.youtube.com/watch?v=2s3wM4bb8b0)
+
+# CryptoX Mobile --- [https://www.youtube.com/watch?v=2s3wM4bb8b0](https://www.youtube.com/watch?v=wtH9oixBYyE)
+
 # CryptoX---DApp
 CriptoX is a decentralized application (DApp), that combines REACT/TYPESCRIPT/NODEJS/HARDHAT/SOLIDITY and METAMASK to send Sepolia ETH(Ethereum) interacting with blockchain for transactions
 =======
-
 
 **CLIENT FOLDER**
 
