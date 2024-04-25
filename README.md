@@ -1,14 +1,15 @@
 # CryptoX---DApp
 CriptoX is a decentralized application (DApp), that combines REACT/TYPESCRIPT/NODEJS/HARDHAT/SOLIDITY and METAMASK to send Sepolia ETH(Ethereum) interacting with blockchain for transactions
 =======
+
 **CLIENT FOLDER**
-    --emailjs env variables here in client is strictly for sending email from contact form on FRONTEND UI
-    --giphy env variable api is when making a transaction, you will send/see a gif too (check Transaction page on FRONTEND UI)
-    --ADD .env the next variables within the root directory of client.
-            1. VITE_GIPHY_API=... ===>>> https://developers.giphy.com/
-            2. VITE_EMAILJS_PUBLIC_KEY ===>> emailjs public key
-            3. VITE_EMAILJS_SERVICE_ID  ==>> emailjs service id
-            4. VITE_EMAILJS_TEMPLATE_ID ==>> emailjs email template id
+emailjs env variables here in client is strictly for sending email from contact form on FRONTEND UI
+giphy env variable api is when making a transaction, you will send/see a gif too (check Transaction page on FRONTEND UI)
+ADD .env the next variables within the root directory of client.
+1. VITE_GIPHY_API=... ===>>> https://developers.giphy.com/
+2. VITE_EMAILJS_PUBLIC_KEY ===>> emailjs public key
+3. VITE_EMAILJS_SERVICE_ID  ==>> emailjs service id
+4. VITE_EMAILJS_TEMPLATE_ID ==>> emailjs email template id
 
 
 **SERVER FOLDER**
