@@ -1,7 +1,7 @@
 # CryptoX---DApp
 CriptoX is a decentralized application (DApp), that combines REACT/TYPESCRIPT/NODEJS/HARDHAT/SOLIDITY and METAMASK to send Sepolia ETH(Ethereum) interacting with blockchain for transactions
 =======
-"C:\Users\sgpet\Desktop\CryptoX1.mp4"
+
 
 **CLIENT FOLDER**
 
@@ -34,4 +34,22 @@ ADD .env the next variables within the root directory of smart_contracts.
 1. PRIVATE_KEY=... ==>> THIS is your private Crypto wallet key 
 2. ALCHEMY_API=... ==>> This is your alchemy_api key
 
+### To run this Application
 
+# Navigate into each directory and install dependencies
+
+cd client
+npm install
+cd ../server
+npm install
+cd ../smart_contracts
+npm install
+
+# Run the app in terminal
+
+cd client
+npm run dev
+cd ../server
+npm run dev
+
+# App start on localhost:5173
