@@ -1,6 +1,7 @@
 # CryptoX---DApp
 CriptoX is a decentralized application (DApp), that combines REACT/TYPESCRIPT/NODEJS/HARDHAT/SOLIDITY and METAMASK to send Sepolia ETH(Ethereum) interacting with blockchain for transactions
 =======
+"C:\Users\sgpet\Desktop\CryptoX1.mp4"
 
 **CLIENT FOLDER**
 
