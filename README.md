@@ -13,21 +13,21 @@ ADD .env the next variables within the root directory of client.
 
 
 **SERVER FOLDER**
-    --ADD .env the next variables within the root directory of server.
-            1. EMAIL=... ===>> THIS is the email you will get the receipt after transaction
-            2. EMAIL_PASSWORD=... ==>> This is the password of that email, is required
-            3. MONGO_URI=... ==>> This is Your MONGODB URI link to your Atlas database for VSC
-            4. JWT_SECRET=... ==>> JASON WEB TOKEN, you need it for authentication purposes
-            5. PORT=... ==>> YOU CAN SET IT TO 3001
-            6. PRIVATE_KEY=... ==>> THIS is your private Crypto wallet key 
-            7. ALCHEMY_API=... ==>> This is your alchemy_api key
-            8. VITE_GIPHY_API=... ==>> just like in the frontend, a giphy api key
-            9. RECAPTCHA_KEY=... ==>> this is RECAPTCHA google key, for verifying when sign up with RECAPTCHA
+ADD .env the next variables within the root directory of server.
+1. EMAIL=... ===>> THIS is the email you will get the receipt after transaction
+2. EMAIL_PASSWORD=... ==>> This is the password of that email, is required
+3. MONGO_URI=... ==>> This is Your MONGODB URI link to your Atlas database for VSC
+4. JWT_SECRET=... ==>> JASON WEB TOKEN, you need it for authentication purposes
+5. PORT=... ==>> YOU CAN SET IT TO 3001
+6. PRIVATE_KEY=... ==>> THIS is your private Crypto wallet key 
+7. ALCHEMY_API=... ==>> This is your alchemy_api key
+8. VITE_GIPHY_API=... ==>> just like in the frontend, a giphy api key
+9. RECAPTCHA_KEY=... ==>> this is RECAPTCHA google key, for verifying when sign up with RECAPTCHA
 
 
 **CLIENT FOLDER**
-    --ADD .env the next variables within the root directory of smart_contracts.
-            1. PRIVATE_KEY=... ==>> THIS is your private Crypto wallet key 
-            2. ALCHEMY_API=... ==>> This is your alchemy_api key
+ADD .env the next variables within the root directory of smart_contracts.
+1. PRIVATE_KEY=... ==>> THIS is your private Crypto wallet key 
+2. ALCHEMY_API=... ==>> This is your alchemy_api key
 
 
