@@ -3,6 +3,7 @@ CriptoX is a decentralized application (DApp), that combines REACT/TYPESCRIPT/NO
 =======
 
 **CLIENT FOLDER**
+
 emailjs env variables here in client is strictly for sending email from contact form on FRONTEND UI
 giphy env variable api is when making a transaction, you will send/see a gif too (check Transaction page on FRONTEND UI)
 ADD .env the next variables within the root directory of client.
@@ -13,6 +14,7 @@ ADD .env the next variables within the root directory of client.
 
 
 **SERVER FOLDER**
+
 ADD .env the next variables within the root directory of server.
 1. EMAIL=... ===>> THIS is the email you will get the receipt after transaction
 2. EMAIL_PASSWORD=... ==>> This is the password of that email, is required
@@ -26,6 +28,7 @@ ADD .env the next variables within the root directory of server.
 
 
 **CLIENT FOLDER**
+
 ADD .env the next variables within the root directory of smart_contracts.
 1. PRIVATE_KEY=... ==>> THIS is your private Crypto wallet key 
 2. ALCHEMY_API=... ==>> This is your alchemy_api key
