@@ -38,18 +38,21 @@ ADD .env the next variables within the root directory of smart_contracts.
 
 # Navigate into each directory and install dependencies
 
-cd client
+1. cd client
 npm install
-cd ../server
+
+2. cd ../server
 npm install
-cd ../smart_contracts
+
+3. cd ../smart_contracts
 npm install
 
 # Run the app in terminal
 
-cd client
+1. cd client
 npm run dev
-cd ../server
+
+2. cd ../server
 npm run dev
 
 # App start on localhost:5173
